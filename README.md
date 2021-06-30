@@ -14,5 +14,5 @@ Run Image:
 Ready to use:
 `127.0.0.1:5683`
 
-This repository was created as [libcoaplibcoap-minimal] 
-(https://github.com/coapcloud/libcoap-minimal)
+Reference repository
+ [libcoap-minimal](https://github.com/coapcloud/libcoap-minimal)
